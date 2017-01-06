@@ -63,6 +63,10 @@ print (len(classmates));
 print(classmates[0]);
 print(classmates[-1]);
 
+
+# 不能变
+# classmates[0]="fangbz";
+
 # tuple 初始化陷阱
 t=(1,2);
 print(t);
